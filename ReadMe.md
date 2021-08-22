@@ -1,11 +1,8 @@
-// ========= 
-function readmeGenerator(response){
-
-  let content = `# ${response.title}
-  ##### [${response.userName}](${response.GitHub}) [Email Me](${response.email})
+# READ ME
+  ##### [LohithAmal](https://github.com/LohithAmal) [Email Me](lohith05amal@gamil.com)
   
     
-  ##### ReadMeGenerator© 2021 All Rights Reserved.  ${response.license} All material must be cited or credited, when using material (free to use).
+  ##### ReadMeGenerator© 2021 All Rights Reserved.  BSD 3 All material must be cited or credited, when using material (free to use).
     
   ## Table of Contents
     * [General Information](#Repository-Description)
@@ -17,7 +14,7 @@ function readmeGenerator(response){
     
   # Repository Description
   ###### [Back to Table of Contents](#Table-of-Contents)
-  ${response.description}
+  this is a readme generator using node.js
     
   # User Story
   ### AS A developer
@@ -41,18 +38,13 @@ function readmeGenerator(response){
 
     # Repository Description
     ###### [Back to Table of Contents](#Table-of-Contents)
-    ${response.description}
+    this is a readme generator using node.js
 
     # Contribution Guidelines
     ###### [Back to Table of Contents](#Table-of-Contents)
-    ${response.contribute}
+    free use
   
     # License
-    ${response.license} -use code but dont blame me if it doesn't work.
+    BSD 3 -use code but dont blame me if it doesn't work.
     ##### copyright © 2021 LohithAmal 
-    `
-
-    return content;
-};
-
-module.exports = readmeGenerator;
+    
