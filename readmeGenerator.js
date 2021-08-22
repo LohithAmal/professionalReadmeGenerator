@@ -6,6 +6,18 @@ function readmeGenerator(response){
   
     
   ##### ReadMeGenerator© 2021 All Rights Reserved.  ${response.license} All material must be cited or credited, when using material (free to use).
+
+  ## Table of Contents
+  - [Installation](#installation)
+  - [Demo](#demo)
+  - [Details](#details)
+  - [Contributors](#contributer)
+  - [License](#license)
+ 
+
+  ## Installation
+  Packages required to run this program are: inquire
+
   # Demo
    
   ![GIF](https://user-images.githubusercontent.com/60197994/81350819-ce5b4600-9090-11ea-8f85-5ba4a1adb037.gif)
@@ -19,7 +31,7 @@ function readmeGenerator(response){
     * [Contribution Guidelines](#Contribution-Guidelines)
     * [License](#License)
     
-  # Repository Description
+  # Details
   ###### [Back to Table of Contents](#Table-of-Contents)
   ${response.description}
     
@@ -43,25 +55,8 @@ function readmeGenerator(response){
   12.  WHEN I click on the links in the Table of Contents
   13.  THEN I am taken to the corresponding section of the README
 
+    # Contributors
 
-    # Usage
-    ###### [Back to Table of Contents](#Table-of-Contents)
-    1. use the terminal and type in the file name to as "node filename".
-
-    ![readme-terminal-result](https://user-images.githubusercontent.com/83518319/130367715-3c691f5b-a242-4fd0-96e1-295b995de847.JPG)
-
-
-    2. once all the questions answered ther code will automatically generate a readme file with all you answers.
-
-    ![readme-terminal-result-2](https://user-images.githubusercontent.com/83518319/130367770-56d0ed76-8776-48dd-ac53-f31782263f4d.JPG)
-
-    # Demo
-
-    ![GIF](https://github.com/LohithAmal/professionalReadmeGenerator/blob/main/images/Untitled_%20Aug%2022%2C%202021%203_00%20PM.gif)
-
-
-    # Contribution Guidelines
-    ###### [Back to Table of Contents](#Table-of-Contents)
     ${response.contribute}
   
     # License
