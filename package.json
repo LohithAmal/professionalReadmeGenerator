@@ -1,0 +1,27 @@
+{
+  "name": "readmegenerator",
+  "version": "1.0.0",
+  "description": "This is a professional read me generator build using the technologies such as Javascript, NodeJ.S",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/LohithAmal/professionalReadmeGenerator.git"
+  },
+  "keywords": [
+    "javascript",
+    "readme",
+    "nodej.s"
+  ],
+  "author": "AmalLohith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LohithAmal/professionalReadmeGenerator/issues"
+  },
+  "homepage": "https://github.com/LohithAmal/professionalReadmeGenerator#readme",
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  }
+}
