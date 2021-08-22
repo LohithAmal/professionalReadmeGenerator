@@ -54,7 +54,7 @@ function readmeGenerator(response){
 
     # Demo
 
-    ![Untitled_ Aug 22, 2021 3_00 PM](https://user-images.githubusercontent.com/83518319/130367793-52574bec-ec7c-4a0b-a48d-37cbd8f0dc10.gif)
+    ![GIF](https://github.com/LohithAmal/professionalReadmeGenerator/blob/main/images/Untitled_%20Aug%2022%2C%202021%203_00%20PM.gif)
 
 
     # Contribution Guidelines
