@@ -1,5 +1,5 @@
-# professionalReadmeGenerator
-  ##### [LohithAmal](https://github.com/LohithAmal) [Email Me](lohith05amal@gmail.com)
+# read me
+  ##### [lohithaml](link) [Email Me](idpinnetaram)
   
     
   ##### ReadMeGenerator© 2021 All Rights Reserved.  APACHE 2.O All material must be cited or credited, when using material (free to use).
@@ -8,13 +8,14 @@
     * [General Information](#Repository-Description)
     * [Installation Instructions](#Install)
     * [Usage Information](#Usage)
+    * [Demo](#Demo)
     * [Project Details](#User-story)
     * [Contribution Guidelines](#Contribution-Guidelines)
     * [License](#License)
     
   # Repository Description
   ###### [Back to Table of Contents](#Table-of-Contents)
-  this is a project 
+  ariyilla teame
     
   # User Story
   ### AS A developer
@@ -36,22 +37,26 @@
   12.  WHEN I click on the links in the Table of Contents
   13.  THEN I am taken to the corresponding section of the README
 
-    # Repository Description
-    ###### [Back to Table of Contents](#Table-of-Contents)
-    this is a project 
 
     # Usage
     ###### [Back to Table of Contents](#Table-of-Contents)
     1. use the terminal and type in the file name to as "node filename".
-    ![](images/readme-terminal-result-1.JPG)
-    2. once all the questions answered ther code will automatically generate a readme file with all you answers.
-    ![](images/readme-terminal-result-2.JPG)
 
-    
+    ![readme-terminal-result](https://user-images.githubusercontent.com/83518319/130367715-3c691f5b-a242-4fd0-96e1-295b995de847.JPG)
+
+
+    2. once all the questions answered ther code will automatically generate a readme file with all you answers.
+
+    ![readme-terminal-result-2](https://user-images.githubusercontent.com/83518319/130367770-56d0ed76-8776-48dd-ac53-f31782263f4d.JPG)
+
+    # Demo
+
+    ![Untitled_ Aug 22, 2021 3_00 PM](https://user-images.githubusercontent.com/83518319/130367793-52574bec-ec7c-4a0b-a48d-37cbd8f0dc10.gif)
+
 
     # Contribution Guidelines
     ###### [Back to Table of Contents](#Table-of-Contents)
-    free
+    free adda aduthod poo
   
     # License
     APACHE 2.O -use code but dont blame me if it doesn't work.
