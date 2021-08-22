@@ -1,8 +1,8 @@
-# READ ME
-  ##### [LohithAmal](https://github.com/LohithAmal) [Email Me](lohith05amal@gamil.com)
+# professionalReadmeGenerator
+  ##### [LohithAmal](https://github.com/LohithAmal) [Email Me](lohith05amal@gmail.com)
   
     
-  ##### ReadMeGenerator© 2021 All Rights Reserved.  BSD 3 All material must be cited or credited, when using material (free to use).
+  ##### ReadMeGenerator© 2021 All Rights Reserved.  APACHE 2.O All material must be cited or credited, when using material (free to use).
     
   ## Table of Contents
     * [General Information](#Repository-Description)
@@ -14,7 +14,7 @@
     
   # Repository Description
   ###### [Back to Table of Contents](#Table-of-Contents)
-  this is a readme generator using node.js
+  this is a project 
     
   # User Story
   ### AS A developer
@@ -38,13 +38,22 @@
 
     # Repository Description
     ###### [Back to Table of Contents](#Table-of-Contents)
-    this is a readme generator using node.js
+    this is a project 
+
+    # Usage
+    ###### [Back to Table of Contents](#Table-of-Contents)
+    1. use the terminal and type in the file name to as "node filename".
+    ![](images/readme-terminal-result-1.JPG)
+    2. once all the questions answered ther code will automatically generate a readme file with all you answers.
+    ![](images/readme-terminal-result-2.JPG)
+
+    
 
     # Contribution Guidelines
     ###### [Back to Table of Contents](#Table-of-Contents)
-    free use
+    free
   
     # License
-    BSD 3 -use code but dont blame me if it doesn't work.
+    APACHE 2.O -use code but dont blame me if it doesn't work.
     ##### copyright © 2021 LohithAmal 
     
