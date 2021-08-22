@@ -22,19 +22,18 @@ function readmeGenerator(response){
    
   ![GIF](https://user-images.githubusercontent.com/60197994/81350819-ce5b4600-9090-11ea-8f85-5ba4a1adb037.gif)
     
-  ## Table of Contents
-    * [General Information](#Repository-Description)
-    * [Installation Instructions](#Install)
-    * [Usage Information](#Usage)
-    * [Demo](#Demo)
-    * [Project Details](#User-story)
-    * [Contribution Guidelines](#Contribution-Guidelines)
-    * [License](#License)
     
   # Details
   ###### [Back to Table of Contents](#Table-of-Contents)
   ${response.description}
-    
+   
+  # Contributors
+  ###### [Back to Table of Contents](#Table-of-Contents)
+  ${response.contribute}
+
+  # License
+  ${response.license}
+
   # User Story
   ### AS A developer
   ###### [Back to Tables of contents](#table-of-contents)
@@ -55,13 +54,7 @@ function readmeGenerator(response){
   12.  WHEN I click on the links in the Table of Contents
   13.  THEN I am taken to the corresponding section of the README
 
-    # Contributors
-
-    ${response.contribute}
-  
-    # License
-    ${response.license} -use code but dont blame me if it doesn't work.
-    ##### copyright © 2021 LohithAmal 
+    
     `
 
     return content;
