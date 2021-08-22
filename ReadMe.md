@@ -1,5 +1,5 @@
-# read me
-  ##### [lohithaml](link) [Email Me](idpinnetaram)
+# professionalReadmeGenerator
+  ##### [LohithAmal](https://github.com/LohithAmal) [Email Me](lohith05amal@gmail.com)
   
     
   ##### ReadMeGenerator© 2021 All Rights Reserved.  APACHE 2.O All material must be cited or credited, when using material (free to use).
@@ -15,7 +15,7 @@
     
   # Repository Description
   ###### [Back to Table of Contents](#Table-of-Contents)
-  ariyilla teame
+  this is a professional read me file build using node j.s
     
   # User Story
   ### AS A developer
@@ -56,7 +56,7 @@
 
     # Contribution Guidelines
     ###### [Back to Table of Contents](#Table-of-Contents)
-    free adda aduthod poo
+    free code-anyone can use.
   
     # License
     APACHE 2.O -use code but dont blame me if it doesn't work.
