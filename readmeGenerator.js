@@ -43,6 +43,15 @@ function readmeGenerator(response){
     ###### [Back to Table of Contents](#Table-of-Contents)
     ${response.description}
 
+    # Usage
+    ###### [Back to Table of Contents](#Table-of-Contents)
+    1. use the terminal and type in the file name to as "node filename".
+    ![](images/readme-terminal-result-1.JPG)
+    2. once all the questions answered ther code will automatically generate a readme file with all you answers.
+    ![](images/readme-terminal-result-2.JPG)
+
+    
+
     # Contribution Guidelines
     ###### [Back to Table of Contents](#Table-of-Contents)
     ${response.contribute}
