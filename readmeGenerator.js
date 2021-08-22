@@ -11,12 +11,13 @@ function readmeGenerator(response){
   - [Installation](#installation)
   - [Demo](#demo)
   - [Details](#details)
-  - [Contributors](#contributer)
+  - [Contributors](#contributors)
   - [License](#license)
+  - [References](#reference)
  
 
   ## Installation
-  Packages required to run this program are: inquire
+    Run the code in a terminal.
 
   # Demo
    
@@ -33,6 +34,12 @@ function readmeGenerator(response){
 
   # License
   ${response.license}
+
+  # Reference 
+   - https://www.youtube.com/watch?v=xdNIia7Z2RE
+   - https://github.com/supercodingninja/SuperCodingNinja
+   - https://stackoverflow.com/questions/62597209/trying-to-generate-a-readme-using-nodejs
+   - https://github.com/TiffanyCasey
 
   # User Story
   ### AS A developer

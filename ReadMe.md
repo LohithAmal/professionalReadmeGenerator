@@ -8,12 +8,13 @@
   - [Installation](#installation)
   - [Demo](#demo)
   - [Details](#details)
-  - [Contributors](#contributer)
+  - [Contributors](#contributors)
   - [License](#license)
+  - [References](#reference)
  
 
   ## Installation
-  Packages required to run this program are: inquire
+    Run the code in a terminal.
 
   # Demo
    
@@ -22,14 +23,20 @@
     
   # Details
   ###### [Back to Table of Contents](#Table-of-Contents)
-   This is a professional read me genearator build using NodeJ.s
+  This is a PROFESSIONAL README generator using NODE J.S
    
   # Contributors
   ###### [Back to Table of Contents](#Table-of-Contents)
-  yes, anyone can contribute
+  Free code-anyone can use
 
   # License
   APACHE 2.O
+
+  # Reference 
+   - https://www.youtube.com/watch?v=xdNIia7Z2RE
+   - https://github.com/supercodingninja/SuperCodingNinja
+   - https://stackoverflow.com/questions/62597209/trying-to-generate-a-readme-using-nodejs
+   - https://github.com/TiffanyCasey
 
   # User Story
   ### AS A developer
