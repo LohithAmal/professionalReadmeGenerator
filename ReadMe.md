@@ -18,16 +18,16 @@
 
   # Demo
    
-  ![GIF](https://user-images.githubusercontent.com/60197994/81350819-ce5b4600-9090-11ea-8f85-5ba4a1adb037.gif)
+  ![GIF](https://github.com/LohithAmal/professionalReadmeGenerator/blob/main/images/Untitled_%20Aug%2022%2C%202021%203_00%20PM.gif)
     
     
   # Details
   ###### [Back to Table of Contents](#Table-of-Contents)
-  This is a PROFESSIONAL README generator using NODE J.S
+  this is a professional readme generator build using NODE J.S
    
   # Contributors
   ###### [Back to Table of Contents](#Table-of-Contents)
-  Free code-anyone can use
+  yes, free code anyone can use
 
   # License
   APACHE 2.O
