@@ -6,6 +6,9 @@ function readmeGenerator(response){
   
     
   ##### ReadMeGenerator© 2021 All Rights Reserved.  ${response.license} All material must be cited or credited, when using material (free to use).
+  # Demo
+   
+  ![GIF](https://user-images.githubusercontent.com/60197994/81350819-ce5b4600-9090-11ea-8f85-5ba4a1adb037.gif)
     
   ## Table of Contents
     * [General Information](#Repository-Description)
